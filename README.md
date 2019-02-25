@@ -1,2 +1,2 @@
 # Hitungluaspersegi
-![alt text](https://github.com/Ikhwan19/HitungLuaspersegi/blob/master/HLP1.JPG)
+![alt text](https://github.com/Ikhwan19/Hitungluaspersegi/blob/master/HLP1.JPG)
